@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1543008782 source:e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\main.cpp
+	<iostream>
+	"Bank.h"
+	"SavingBankAccount.h"
+	"Client.h"
+	"BankingApplication.h"
+
+1543013156 e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\bank.h
+	<iostream>
+
+1543013122 source:e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\bank.cpp
+	"Bank.h"
+	<iostream>
+	<fstream>
+
+1543006238 e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\savingbankaccount.h
+	"Bank.h"
+
+1543009846 e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\client.h
+	<iostream>
+	"SavingBankAccount.h"
+
+1543010148 e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\bankingapplication.h
+
+1543012738 source:e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\bankingapplication.cpp
+	"BankingApplication.h"
+	"Client.h"
+	"Bank.h"
+	"SavingBankAccount.h"
+	<iostream>
+	<fstream>
+
+1543009750 source:e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\client.cpp
+	"Client.h"
+	<iostream>
+
+1543007182 source:e:\mohamed\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\savingbankaccount.cpp
+	"SavingBankAccount.h"
+	<iostream>
+
+1543005922 source:f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\bank.cpp
+	"Bank.h"
+	<iostream>
+	<fstream>
+
+1543005956 f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\bank.h
+	<iostream>
+
+1543005954 source:f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\bankingapplication.cpp
+	"BankingApplication.h"
+	"Client.h"
+	"Bank.h"
+	"SavingBankAccount.h"
+	<iostream>
+	<fstream>
+
+1543002948 f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\bankingapplication.h
+
+1543002646 f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\client.h
+	<iostream>
+	"SavingBankAccount.h"
+
+1542999038 f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\include\savingbankaccount.h
+	"Bank.h"
+
+1543002550 source:f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\client.cpp
+	"Client.h"
+	<iostream>
+
+1542999982 source:f:\college\second year\first term\programming ll\assignments\cs213-2018-2019-assignment3-v2.0\banking system\src\savingbankaccount.cpp
+	"SavingBankAccount.h"
+	<iostream>
+
